@@ -2,7 +2,7 @@
 debug: False
 mqtt_username: "p1"
 mqtt_password: "password"
-mqtt_host: "192.168.2.200"
+mqtt_host: "192.168.0.101"
 mqtt_topic_base: "Home/SmartMeter"
 serial_device: "/dev/ttyUSB0"
 serial_baudrate: 115200
